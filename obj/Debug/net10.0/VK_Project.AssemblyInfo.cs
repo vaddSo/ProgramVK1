@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VK_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c67fd577f005a807f7e55de28220a16ac2c43d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd2fd9b65ae60e06153afaf7e6fd727a6ae777f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VK_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VK_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
